@@ -1,0 +1,6 @@
+{
+  "name": "GovDoc Intelligence",
+  "description": "Agentic government document intelligence assistant with edge RAG, policy comparison, liquid glass UI, and end-to-end encrypted collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
